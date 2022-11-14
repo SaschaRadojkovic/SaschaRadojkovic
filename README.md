@@ -1,4 +1,4 @@
-# Welcome to my project
+# Welcome 
 
 Hi my name is Sascha Radojkovic i am a creative person and i like to do different things and learned most of them myself
 
