@@ -8,7 +8,7 @@ Hi my name is Sascha Radojkovic i am a creative person and i like to do differen
 - musicproducing
 - diy building 
 - 3d printing 
-- electronic and soldering
+- electronics and soldering
 - electrifying bikes
 
 <h3>Things I want to learn to code with</h3>
