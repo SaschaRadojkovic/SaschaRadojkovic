@@ -15,6 +15,7 @@
 - 3d printing 
 - electronics and soldering
 - electrifying bikes
+- coding
 
 `Turing my music and e-bikes ideas into reality, with a little bit of duct tape and some code`
 
