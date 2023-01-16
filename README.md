@@ -1,6 +1,6 @@
 # Welcome 
 
-Hi my name is Sascha Radojkovic i am a creative person and i like to do different things and learned most of them myself.
+Hi my name is Sascha Radojkovic i am a creative person and i like to do different things and learned most of them myself.<br>
 `Turing my music and e-bikes ideas into reality, with a little bit of duct tape and some code`
 
 ## Skills
