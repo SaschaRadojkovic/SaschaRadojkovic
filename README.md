@@ -1,7 +1,13 @@
 # Welcome 
 
-Hi my name is Sascha Radojkovic i am a creative person and i like to do different things and learned most of them myself.<br>
-`Turing my music and e-bikes ideas into reality, with a little bit of duct tape and some code`
+"Hi my name is Sascha, a creative force who is always eager to try something new. With a natural inclination for self-discovery, Sascha has a diverse set of skills. Driven by his passion for learning and growing, Sascha is constantly seeking new challenges and opportunities."<br>
+"I used to dream of being able to code, and now it's getting reality. I'm excited to learn, grow and create new projects. I am excited to see what the future holds as I continue to explore the world of programming."<br>
+
+`Debugging is like being a detective in a crime movie where you're also the murderer.`
+
+`If at first you don't succeed, call it version 1.0.` 
+
+
 
 ## Skills
 - musicproducing
@@ -10,10 +16,9 @@ Hi my name is Sascha Radojkovic i am a creative person and i like to do differen
 - electronics and soldering
 - electrifying bikes
 
+`Turing my music and e-bikes ideas into reality, with a little bit of duct tape and some code`
 
-`Debugging is like being a detective in a crime movie where you're also the murderer.`
 
-`If at first you don't succeed, call it version 1.0.` 
 
 
 
