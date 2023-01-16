@@ -2,14 +2,22 @@
 
 Hi my name is Sascha Radojkovic i am a creative person and i like to do different things and learned most of them myself
 
-![coding image](https://scontent-frx5-1.xx.fbcdn.net/v/t31.18172-8/12303994_10153406852178250_8262452280018108778_o.jpg?_nc_cat=105&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=b95sP6HBQLgAX-Lm7MM&_nc_ht=scontent-frx5-1.xx&oh=00_AfCEcIMial-lBFx71bVoHvbFmzjkF8t73dMEqt9UXc3gsw&oe=6399C878)
-
 ## Skills
 - musicproducing
 - diy building 
 - 3d printing 
 - electronics and soldering
 - electrifying bikes
+
+
+"Debugging is like being a detective in a crime movie where you're also the murderer."
+
+"If at first you don't succeed, call it version 1.0." 
+
+
+
+
+## Coding Skills
 
 <h3>i am learning at the moment</h3>
 <p>
