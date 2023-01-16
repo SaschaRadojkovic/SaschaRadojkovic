@@ -1,6 +1,7 @@
 # Welcome 
 
-Hi my name is Sascha Radojkovic i am a creative person and i like to do different things and learned most of them myself
+Hi my name is Sascha Radojkovic i am a creative person and i like to do different things and learned most of them myself.
+`Turing my music and e-bikes ideas into reality, with a little bit of duct tape and some code`
 
 ## Skills
 - musicproducing
@@ -10,9 +11,9 @@ Hi my name is Sascha Radojkovic i am a creative person and i like to do differen
 - electrifying bikes
 
 
-"Debugging is like being a detective in a crime movie where you're also the murderer."
+`Debugging is like being a detective in a crime movie where you're also the murderer.`
 
-"If at first you don't succeed, call it version 1.0." 
+`If at first you don't succeed, call it version 1.0.` 
 
 
 
