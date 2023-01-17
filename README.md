@@ -1,6 +1,6 @@
 # Welcome 
 
-"Hi my name is Sascha, a creative force who is always eager to try something new. With a natural inclination for self-discovery, Sascha has a diverse set of skills. Driven by his passion for learning and growing, Sascha is constantly seeking new challenges and opportunities."<br>
+"Hi my name is Sascha, a creative force who is always eager to try something new. With a natural inclination for self-discovery, i have a diverse set of skills. Driven by my passion for learning and growing, i am constantly seeking new challenges and opportunities."<br>
 "I used to dream of being able to code, and now it's getting reality. I'm excited to learn, grow and create new projects. I am excited to see what the future holds as I continue to explore the world of programming."<br>
 
 `Debugging is like being a detective in a crime movie where you're also the murderer.`
@@ -10,11 +10,12 @@
 
 
 ## Skills
-- musicproducing
+- music producing
 - diy building 
 - 3d printing 
 - electronics and soldering
 - electrifying bikes
+- craftsman
 - coding
 
 `Turing my music and e-bikes ideas into reality, with a little bit of duct tape and some code`
